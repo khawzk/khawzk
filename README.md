@@ -101,16 +101,6 @@ Android apps in Kotlin and REST backends with Spring and MongoDB, plus the APIs 
 
 ## 🚀 Featured Projects
 
-### ☁️ Cloud & Data
-
-| Project | Description |
-|---------|-------------|
-| [**LearnTerraform**](https://github.com/khawzk/LearnTerraform) | Infrastructure-as-code exercises in Terraform. |
-| [**HadoopW-Cloud**](https://github.com/khawzk/HadoopW-Cloud) | Running a Hadoop cluster in the cloud. |
-| [**marktests-learn-dbt**](https://github.com/khawzk/marktests-learn-dbt) | Learning dbt data transformations. |
-| [**-MaaSTest**](https://github.com/khawzk/-MaaSTest) | Testing Huawei ModelArts (MaaS). |
-| [**APCRT**](https://github.com/khawzk/APCRT) | Universiti Malaya 22/23 WOC & WOA group project. |
-
 ### 🤖 Practical AI
 
 | Project | Description |
