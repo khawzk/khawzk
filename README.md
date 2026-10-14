@@ -126,7 +126,7 @@ Android apps in Kotlin and REST backends with Spring and MongoDB, plus the APIs 
 
 <!-- TODO: replace the # links with your real profiles, delete the ones you don't use -->
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khawzk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-khaw/)
 [![Website](https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white)](https://khawzk.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
